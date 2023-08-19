@@ -1,0 +1,37 @@
+{
+  "name": "simple-ecommerce-api-cn",
+  "version": "1.0.0",
+  "description": "Simple Ecommerce API: Backend project: CN",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kus0023/Simple-Ecommerce-API-CN.git"
+  },
+  "keywords": [
+    "api",
+    "simple",
+    "api",
+    "ecommerce",
+    "node",
+    "express"
+  ],
+  "author": "Kumar Utsav Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kus0023/Simple-Ecommerce-API-CN/issues"
+  },
+  "homepage": "https://github.com/kus0023/Simple-Ecommerce-API-CN#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validation": "^4.1.0",
+    "mongoose": "^7.4.3",
+    "mongoose-paginate": "^5.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
